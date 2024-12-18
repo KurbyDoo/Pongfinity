@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="Pong:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Pong_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Pong.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/res/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="Pong" />
+      </element>
+      <element id="library" level="project" name="Pong" />
+      <element id="library" level="project" name="csta.ibm.pong.v15" />
+    </root>
+  </artifact>
+</component>

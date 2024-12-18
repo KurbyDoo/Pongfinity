@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="csta.ibm.pong.v15">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/csta.ibm.pong.v15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

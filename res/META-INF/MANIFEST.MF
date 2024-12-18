@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: Pong
+Class-Path: Pong.jar csta.ibm.pong.v15.jar
+
